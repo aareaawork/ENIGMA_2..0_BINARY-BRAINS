@@ -50,15 +50,10 @@ The Intelligent Interview Simulation System bridges the gap between coding platf
 - Resume Flow:
    PDF Upload → Multer → pdf-parse → Extract Text → Groq → Skills → PostgreSQL
 - Interview Flow:
-
-Skills → Groq → Question → Candidate Answer → Groq → Structured Score & Feedback → PostgreSQL → Frontend
-
-Analytics Flow:
-
-PostgreSQL → Aggregate Queries → Average Scores / Dashboard → Frontend
-
-Full End-to-End Flow:
-
+   Skills → Groq → Question → Candidate Answer → Groq → Structured Score & Feedback → PostgreSQL → Frontend
+- Analytics Flow:
+   PostgreSQL → Aggregate Queries → Average Scores / Dashboard → Frontend
+- Full End-to-End Flow:
 Frontend (React + Vite)
         ↓ Upload Resume / Submit Code / Record Voice
 Backend (Node + Express)
@@ -69,9 +64,12 @@ Backend (Node + Express)
      
 
 ## How to run
-Step 1: clone repo
-Step 2: install requirements
-Step 3: run main.py
+- Step 1: clone repo
+- Step 2: install requirements
+- Step 3: Setup Backend
+- Step 4: Setup Frontend
+- Step 5: Connect Frontend to Backend
+- step 6: Test the System
 
 ## Demo
 (video link here)
@@ -80,5 +78,5 @@ Step 3: run main.py
 - Rudra pahune (team lead)
 - aarya ambule
 - anushka chatur
-- anish
-- anagha
+- anish gotmare
+- anagha adpewar
