@@ -72,7 +72,11 @@ Backend (Node + Express)
 - step 6: Test the System
 
 ## Demo
-(video link here)
+<img width="1917" height="1147" alt="Screenshot 2026-02-27 060452" src="https://github.com/user-attachments/assets/858e30ab-c804-45fd-bde0-bb5d07556b5b" />
+<img width="1919" height="1129" alt="Screenshot 2026-02-27 061322" src="https://github.com/user-attachments/assets/b58ceb13-dd88-4fa0-b5c8-75709a08e620" />
+<img width="1894" height="1079" alt="Screenshot 2026-02-26 133609" src="https://github.com/user-attachments/assets/6d2a89de-af67-4dca-bdcb-2516e0d1df56" />
+<img width="1908" height="1132" alt="Screenshot 2026-02-27 062127" src="https://github.com/user-attachments/assets/290c9d4b-8dc6-440c-af25-4fa97bcc0fea" />
+
 
 ## Team Members
 - Rudra pahune (team lead)
